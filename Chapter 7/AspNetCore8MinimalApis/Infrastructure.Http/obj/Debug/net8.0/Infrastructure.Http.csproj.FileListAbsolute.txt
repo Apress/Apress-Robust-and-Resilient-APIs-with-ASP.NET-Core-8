@@ -1,0 +1,15 @@
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\bin\Debug\net8.0\Infrastructure.Http.deps.json
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\bin\Debug\net8.0\Infrastructure.Http.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\bin\Debug\net8.0\Infrastructure.Http.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\bin\Debug\net8.0\Domain.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\bin\Debug\net8.0\Domain.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.csproj.AssemblyReference.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.AssemblyInfoInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.AssemblyInfo.cs
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.csproj.CoreCompileInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.csproj.CopyComplete
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\refint\Infrastructure.Http.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\Infrastructure.Http.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.Http\obj\Debug\net8.0\ref\Infrastructure.Http.dll

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspNetCore8MinimalApis</name>
+    </assembly>
+    <members>
+        <member name="P:AspNetCore8MinimalApis.Models.Country.Id">
+            <summary>
+            The country Id
+            </summary>
+        </member>
+        <member name="P:AspNetCore8MinimalApis.Models.Country.Name">
+            <summary>
+            The country name
+            </summary>
+        </member>
+        <member name="P:AspNetCore8MinimalApis.Models.Country.Description">
+            <summary>
+            The country description
+            </summary>
+        </member>
+        <member name="P:AspNetCore8MinimalApis.Models.Country.FlagUri">
+            <summary>
+            The country flag URI
+            </summary>
+        </member>
+    </members>
+</doc>

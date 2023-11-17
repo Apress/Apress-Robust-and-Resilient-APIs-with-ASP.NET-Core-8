@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5uUbiLnRYZOq8XnBbQskT36iADiZOuBKDUOdE8wAMTRV8CkNNMBqExddB7nh7odsgAPEpn4CNxypE6tpxYBzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 11\\AspNetCore8MinimalApis\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

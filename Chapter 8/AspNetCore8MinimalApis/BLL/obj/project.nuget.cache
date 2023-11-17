@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFHjUkf0aA22GgZ93ZBaGA2y5eW8eTV0hZd2TaRodI2BIr6Nj/rri7nRrJBASFHcsGkS9jxy2UkAEFvOi/4yxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 8\\AspNetCore8MinimalApis\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.caching.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.http\\8.0.0-preview.7.23375.6\\microsoft.extensions.http.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-preview.7.23375.6\\microsoft.extensions.logging.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.logging.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.7.23375.6\\microsoft.extensions.options.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

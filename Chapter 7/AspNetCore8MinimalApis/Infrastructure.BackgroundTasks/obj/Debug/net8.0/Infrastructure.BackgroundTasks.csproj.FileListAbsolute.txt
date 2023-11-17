@@ -1,0 +1,15 @@
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\bin\Debug\net8.0\Infrastructure.BackgroundTasks.deps.json
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\bin\Debug\net8.0\Infrastructure.BackgroundTasks.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\bin\Debug\net8.0\Infrastructure.BackgroundTasks.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\bin\Debug\net8.0\Domain.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\bin\Debug\net8.0\Domain.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.csproj.AssemblyReference.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.AssemblyInfoInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.AssemblyInfo.cs
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.csproj.CoreCompileInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.csproj.CopyComplete
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\refint\Infrastructure.BackgroundTasks.dll
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\Infrastructure.BackgroundTasks.pdb
+D:\Personal\Book\apis\_Source code\Chapter 7\AspNetCore8MinimalApis\Infrastructure.BackgroundTasks\obj\Debug\net8.0\ref\Infrastructure.BackgroundTasks.dll
